@@ -1,0 +1,3 @@
+#This GitHub repo is for a Backend project and the name of this project is Videotube.
+
+I am learning Backend from "Chai aur Code" channel of youtube and making this project from over there.....
