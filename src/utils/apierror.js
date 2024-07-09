@@ -15,6 +15,6 @@ class ApiError extends Error {
         
 
     }
-}
+}5
 
 export {ApiError}
